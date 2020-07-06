@@ -37,9 +37,9 @@ api = tweepy.API(auth,wait_on_rate_limit=True, wait_on_rate_limit_notify=True)
 
 #hashtag = "mask"
 
-hashtags=["COVID", "mask", "masks", "kn95"]
+hashtags=["hashtag1", "etc", "etc", "etc"]
 replyLimit = 4
-replies=["COVID sucks! However, cheap KN95 masks are available at masklegal.com or @masklegal", "Get a KN95 mask at masklegal.com!", "Stay safe guys, KN95 masks at masklegal.com.", "Need KN95 masks? masklegal.com"]
+replies=["message1", "message2", "message3"]
 tweetNumber = 5
 sleepTime = 60
 
